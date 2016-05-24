@@ -1,6 +1,6 @@
 # Electron Menubar Boilerplate 🎉 🚀
 
-Babel + Electron + Menubar + React + Browserify + SASS.
+Babel + Electron + Menubar + React + Browserify + SASS. Based on [menubar](https://github.com/maxogden/menubar) and [jolteon](https://github.com/vulpino/jolteon) 😀
 
 ## Features
 
